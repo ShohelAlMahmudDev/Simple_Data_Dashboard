@@ -52,6 +52,8 @@ This Streamlit application provides an interactive dashboard to analyze and visu
 ### Data Preview
 
 ![Data Preview](https://via.placeholder.com/800x400?text=Data+Preview)
+![image](https://github.com/user-attachments/assets/5844a5c0-1a43-4fa4-83be-7bc2fce5cd6e)
+
 
 ### Charts
 
