@@ -38,7 +38,7 @@ This Streamlit application provides an interactive dashboard to analyze and visu
 3. Run the application:
 
    ```bash
-   streamlit run app.py
+   streamlit run main.py
    ```
 
 ## Usage
